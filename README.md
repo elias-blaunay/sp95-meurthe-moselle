@@ -46,7 +46,7 @@ Le fichier CSV nettoyé est importé directement via l'interface BigQuery.
 
 ### Étape 4 — Analyse SQL
 Requêtes progressives pour explorer les données et construire la logique du dashboard.  
-→ Voir le fichier [`sql/queries.sql`](sql/queries.sql)
+→ Voir le fichier [`sql/queries.sql`](queries.sql)
 
 ### Étape 5 — Création du dashboard
 Connexion de Looker Studio à la requête SQL finale comme source de données.  
