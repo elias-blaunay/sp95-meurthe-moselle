@@ -16,7 +16,7 @@ Avec la hausse des prix des carburants, identifier rapidement la station la moin
 
 ## 📊 Dashboard interactif
 
-👉 **[Accéder au dashboard Looker Studio](#)** ← *(remplace ce lien par ton vrai lien)*
+https://lookerstudio.google.com/s/gshL7xUeyWw
 
 Le dashboard permet de :
 - Visualiser les **50 stations SP95** du département 54 sur une carte géolocalisée, colorée selon le prix (vert = moins cher, rouge = plus cher)
